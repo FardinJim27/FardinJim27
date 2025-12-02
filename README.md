@@ -29,11 +29,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/fardinjim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fardinjim" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinjim27&show_icons=true&locale=en&layout=compact" alt="fardinjim27" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinjim27&show_icons=true&locale=en&layout=compact" alt="fardinjim27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinjim27&show_icons=true&locale=en" alt="fardinjim27" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinjim27&" alt="fardinjim27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinjim27&" alt="fardinjim27" /></p> -->
 
 
 <p>Thanks for stopping by!!!!</p>
