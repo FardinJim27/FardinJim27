@@ -1,4 +1,4 @@
-## Hey There!! 👋
+## Assalamualaikum!! 👋
 
 <h1 align="center">I'm Fardin Jim</h1>
 <h3 align="center">B.Sc. Graduate in Computer Science & Engineering | Tech Enthusiast</h3>
@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinjim27&show_icons=true&locale=en" alt="fardinjim27" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinjim27&" alt="fardinjim27" /></p>
+
+
+<p>Thanks for stopping by!!!!</p>
