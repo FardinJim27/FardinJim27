@@ -1,6 +1,6 @@
-## Assalamualaikum!! 👋
+## Hey There!! 👋
 
-<h1 align="center">I'm Fardin Jim</h1>
+<h1 align="center">Assalamualaikum! I'm Fardin Jim</h1>
 <h3 align="center">B.Sc. Graduate in Computer Science & Engineering | Tech Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinjim27&label=Profile%20views&color=0e75b6&style=flat" alt="fardinjim27" /> </p>
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://fardinjim.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://fardinjim.netlify.app/" height="30" width="40" /></a>
+<a href="/https://fardinjim.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://fardinjim.netlify.app/" height="30" width="40" /></a>
 <a href="https://twitter.com/fardinjim7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardinjim7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/fardin-ahmed-7594ba209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fardin-ahmed-7594ba209/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20139689/fardin-jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20139689/fardin-jim" height="30" width="40" /></a>
