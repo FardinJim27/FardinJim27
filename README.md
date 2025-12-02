@@ -35,5 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinjim27&" alt="fardinjim27" /></p> -->
 
-
-<p>Thanks for stopping by!!!!</p>
+<h1 align="center">Thanks for stopping by!!</h1>
