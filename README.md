@@ -1,6 +1,6 @@
 ## 💫 Hey There!! 👋
 <div align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=+++Assalamualaikum+Everyone!;++I'm+FardinJim%2C+a+Tech+Enthusiast++%E2%9C%A9" width="70%" />
+ <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=+++Assalamualaikum!;++I'm+FardinJim%2C+a+Tech+Enthusiast++%E2%9C%A9" width="70%" />
 </div>
 
 <!-- <h1 align="center">Assalamualaikum! I'm Fardin Jim</h1> -->  
@@ -44,7 +44,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can Help Me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fardinjim)
 
 <h1 align="center">Thanks for Stopping by!!</h1>
