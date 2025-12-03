@@ -9,7 +9,9 @@
 <h3 align="center">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
 <h3 align="center">- 🔭 I’m currently working on **IT Ticketing System**</h3>
 
+<!-- Profile Viewer & Code Time -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinjim27&label=Profile%20views&color=0e75b6&style=flat" alt="fardinjim27" /> </p>
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fardinjim27&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
