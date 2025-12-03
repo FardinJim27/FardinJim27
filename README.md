@@ -26,13 +26,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&layout=compact" />
 </div>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/fardinjim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fardinjim" /></a></p><br><br>
+<br>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardinjim27&show_icons=true&locale=en&layout=compact" alt="fardinjim27" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fardinjim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fardinjim27&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardinjim27&show_icons=true&locale=en" alt="fardinjim27" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fardinjim27&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fardinjim27&" alt="fardinjim27" /></p> -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fardinjim27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fardinjim)
 
 <h1 align="center">Thanks for stopping by!!</h1>
