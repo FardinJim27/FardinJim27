@@ -6,13 +6,13 @@
 <!-- <h1 align="center">Assalamualaikum! I'm Fardin Jim</h1> -->  
 
 
-<h3 align="center">💼 B.Sc. Graduate in Computer Science & Engineering</h3>
+<h3 align="center">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
+<h3 align="center">- 🔭 I’m currently working on **IT Ticketing System**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinjim27&label=Profile%20views&color=0e75b6&style=flat" alt="fardinjim27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fardinjim27" alt="fardinjim27" /></a> </p>
-
-- 🔭 I’m currently working on **IT Ticketing System**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fardinjim27&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">🌐 Connect with me:</h3>
 
