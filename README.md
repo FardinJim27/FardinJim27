@@ -7,7 +7,7 @@
 
 
 <h3 align="left">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
-<h3 align="left">- 🔭 I’m currently working on <b>IT Ticketing System</b> that's based on Next.js!</h3>
+<h3 align="left">- 🔭 I’m currently working on <b color="FFEF00">IT Ticketing System</b> that's based on Next.js!</h3>
 
 <!-- Profile Viewer & Code Time -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinjim27&label=Profile%20views&color=0e75b6&style=flat" alt="fardinjim27" /> </p>
