@@ -54,7 +54,7 @@
 # 💰 You can Help Me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fardinjim)
 
-<h1 align="center">Thanks for Stopping by!!👋 </h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Thanks+for+Stopping+by!!+👋)](https://git.io/typing-svg) </h1>
 <div align="center">
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Thanks+for+Stopping+by!!+👋++)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Thanks+for+Stopping+by!!+👋++)](https://git.io/typing-svg)
 </div>
