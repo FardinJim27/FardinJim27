@@ -12,7 +12,7 @@
 
 
 <!--START_SECTION:waka-->
-<!-- <p align="left">![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)</p> -->
+<p align="left">![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)</p>
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=fardinjim27&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
@@ -38,7 +38,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FardinJim27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinJim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![FardinJim's GitHub stats](https://github-readme-stats.vercel.app/api?username=FardinJim27)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fardinjim27" /></p> -->
 
 <!--
