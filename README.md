@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&layout=compact" />
 </div> -->
 
-## 📺 Visitors:
+# 📺 Visitors:
 <!-- Profile Viewer & Code Time -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinjim27&label=Profile%20views&color=0e75b6&style=flat" alt="fardinjim27" /> </p>
 
@@ -51,7 +51,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
 
-## 💰 You can Help Me by Donating
+# 💰 You can Help Me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/fardinjim)
 
 <h1 align="center">Thanks for Stopping by!!👋 </h1>
+<div align="center">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=Thanks+for+Stopping+by!!+👋++)](https://git.io/typing-svg)
+</div>
