@@ -38,6 +38,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=fardinjim27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 [![FardinJim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fardinjim27)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fardinjim27" /></p> -->
 
