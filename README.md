@@ -46,8 +46,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=fardinjim27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
 # 🔝 Top Languages Used
-[![Top Languages](https://github-readme-stats-fardinjims-projects.vercel.app/api/top-langs/?username=FardinJim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
+[![Top Languages](https://github-readme-stats-ten-ashy-77.vercel.app/api/top-langs/?username=FardinJim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)---
 [![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
 
 # 💰 You Can Help Me by Donating
