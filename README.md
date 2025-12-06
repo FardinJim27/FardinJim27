@@ -38,8 +38,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=fardinjim27&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![FardinJim's GitHub stats](https://github-readme-stats.vercel.app/api?username=fardinjim27)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fardinjim27" /></p> -->
 
@@ -47,7 +45,8 @@
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fardinjim27&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="FardinJim's Top Languages" src="https://fardinjim27-github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+# 🔝 Top Languages Used
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinJim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
