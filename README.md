@@ -5,19 +5,20 @@
 
 <!-- <h1 align="center">Assalamualaikum! I'm Fardin Jim</h1> -->  
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=💼+B.Sc.+Graduate+in-Computer+Science+&+Engineering;🔭+I'm+currently+working+on+IT+Ticketing+System)](https://git.io/typing-svg)
 
-<h3 align="left">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
-<h3 align="left">- 🔭 I’m currently working on <span style="color:#FFEF00; font-weight:bold;">IT Ticketing System</span> that's based on Next.js!</h3>
+<!-- <h3 align="left">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
+<h3 align="left">- 🔭 I’m currently working on <span style="color:#FFEF00; font-weight:bold;">IT Ticketing System</span> that's based on Next.js!</h3> -->
 
 <!-- Profile Viewer & Code Time -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fardinjim27&label=Profile%20views&color=0e75b6&style=flat" alt="fardinjim27" /> </p>
 <!--START_SECTION:waka-->
 <!-- <p align="left">![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)</p> -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=fardinjim27&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">🌐 Connect With Me:</h3>
+## 🌐 Connect With Me:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fardinjim#8303) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fardin_jim) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fardin-ahmed-7594ba209/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fardinjim7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@fardinahmedjim4307) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fardinahmed.jim.7@gmail.com)
 
