@@ -13,7 +13,8 @@
 <br>
 
 <!--START_SECTION:waka-->
-<p align="left">![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)</p>
+![WakaTime](https://wakatime.com/badge/user/fardinjim.svg)
+<!--END_SECTION:waka-->
 
 <br>
 
