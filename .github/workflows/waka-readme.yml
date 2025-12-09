@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_b7c4ab15-b082-4cdc-b020-573da46db96c }}
+          WAKATIME_API_KEY: ${{ secrets.waka_b7c4ab15..... }}
           SHOW_TITLE: true
           SHOW_MASKED_TIME: true
