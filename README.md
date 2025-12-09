@@ -10,9 +10,11 @@
 <!-- <h3 align="left">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
 <h3 align="left">- 🔭 I’m currently working on <span style="color:#FFEF00; font-weight:bold;">IT Ticketing System</span> that's based on Next.js!</h3> -->
 
+<br>
 
 <!--START_SECTION:waka-->
-<!-- <p align="left">![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)</p> -->
+<p align="left">![Code Time](http://img.shields.io/badge/Code%20Time-5%2C906%20hrs%2046%20mins-blue)</p>
+
 <br>
 
 # 🏆 GitHub Trophies:
@@ -55,13 +57,6 @@
 # 🔝 Top Languages Used
 [![Top Languages](https://github-readme-stats-ten-ashy-77.vercel.app/api/top-langs/?username=FardinJim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<br>
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=FardinJim27&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinJim27&layout=compact" />
-</div>
 
 <br>
 
