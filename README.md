@@ -59,8 +59,8 @@
 <br>
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=fardinjim27&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=FardinJim27&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FardinJim27&layout=compact" />
 </div>
 
 <br>
