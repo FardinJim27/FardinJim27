@@ -5,7 +5,7 @@
 
 <!-- <h1 align="center">Assalamualaikum! I'm Fardin Jim</h1> -->  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=💼+B.Sc.+Graduate+in-Computer+Science+and+Engineering;🔭+I'm+currently+working+on+IT+Ticketing+System)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?width=700&lines=💼+B.Sc.+Graduate+in-Computer+Science+and+Engineering;🔭+I'm+currently+working+on+IT+Ticketing+System+(TS))](https://git.io/typing-svg)
 
 <!-- <h3 align="left">- 💼 B.Sc. Graduate in Computer Science & Engineering</h3>
 <h3 align="left">- 🔭 I’m currently working on <span style="color:#FFEF00; font-weight:bold;">IT Ticketing System</span> that's based on Next.js!</h3> -->
