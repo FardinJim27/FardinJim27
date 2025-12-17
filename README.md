@@ -19,7 +19,7 @@
 <br>
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=fardinjim27&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=minoveaz&count_private=true&show_icons=true)
 
 <br>
 
