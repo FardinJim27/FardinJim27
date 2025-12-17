@@ -19,8 +19,7 @@
 <br>
 
 # 🏆 GitHub Trophies:
-[![Github Stats: ]([https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix))]
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)
 <br>
 
 # 🌐 Connect With Me:
