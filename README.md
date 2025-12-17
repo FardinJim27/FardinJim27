@@ -19,7 +19,7 @@
 <br>
 
 # 🏆 GitHub Trophies:
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox
+[!(https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)]
 
 <br>
 
