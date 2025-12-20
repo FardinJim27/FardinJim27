@@ -57,8 +57,7 @@
 <br>
 
 # 🔝 Top Languages Used
-[![Top Languages](https://github-readme-stats-ten-ashy-77.vercel.app/api/top-langs/?username=FardinJim27&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![](https://visitcount.itsvg.in/api?id=fardinjim27&icon=0&color=2)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinJim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 
