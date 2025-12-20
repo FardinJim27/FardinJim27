@@ -19,7 +19,8 @@
 <br>
 
 # 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=FardinJim27&theme=onedark)
+<!-- ![Trophies](https://github-profile-trophy.vercel.app/?username=FardinJim27&theme=onedark) -->
+![Trophies](https://github-trophies.vercel.app/?username=FardinJim27&theme=gruvbox)
 <br>
 
 # 🌐 Connect With Me:
