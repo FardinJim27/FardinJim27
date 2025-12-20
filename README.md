@@ -19,9 +19,7 @@
 <br>
 
 # 🏆 GitHub Trophies:
-[![Trophy (Gruvbox)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma)
-[![Trophy (Matrix)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)](https://github.com/ryo-ma)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 # 🌐 Connect With Me:
@@ -59,9 +57,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FardinJim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <a href="https://github.com/FardinJim27/github-stats">
-  
   <img src="https://raw.githubusercontent.com/FardinJim27/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-  
   <img src="https://raw.githubusercontent.com/FardinJim27/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
