@@ -46,8 +46,8 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=FardinJim27&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://nirzak-streak-stats.vercel.app/?user=FardinJim27&theme=dark&hide_border=false)<br/>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/FardinJim27/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/FardinJim27/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardinjim27&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="fardinjim27" /></p> -->
 
