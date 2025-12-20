@@ -69,4 +69,4 @@
 
 <br>
 
-<h1 align="center">Thanks for Stopping by!! 👋 </h1>
+<h1 align="center">THANKS FOR STOPPING BY!! 👋 </h1>
